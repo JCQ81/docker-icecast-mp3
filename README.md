@@ -22,6 +22,8 @@ Required map structure in /media:
 - Under /media only maps containing .mp3 files
 - Sublevels not supported
 
+![](./images/icecast-mp3.png)
+
 Known bugs:
 - Make sure permissions in /media are right (read for www-data)
 - Skipping tracks is not working correctly... (like: still in crappy coding ;) )
